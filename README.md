@@ -1,2 +1,2 @@
-# Sauce_Demo_PlayWright_Python
-Automate Sauce Demo Login page using python playwright framework
+# Test Automation Framework
+This project automates tests for Sauce Demo using Playwright, Behave, and Pytest.

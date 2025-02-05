@@ -1,0 +1,17 @@
+# Playwright
+playwright # type: ignore
+
+# Pytest and Plugins
+pytest # type: ignore
+pytest-playwright # type: ignore
+pytest-rerunfailures  # For retrying failed tests # type: ignore
+pytest-allure-adaptor  # Allure reporting # type: ignore
+
+# BrowserStack
+browserstack-local  # Required for running tests on BrowserStack # type: ignore
+
+# Azure Key Vault
+azure-identity # type: ignore
+azure-keyvault-secrets # type: ignore
+
+

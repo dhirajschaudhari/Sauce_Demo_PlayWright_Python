@@ -14,4 +14,14 @@ browserstack-local  # Required for running tests on BrowserStack # type: ignore
 azure-identity # type: ignore
 azure-keyvault-secrets # type: ignore
 
+# API Testing Dependencies
+requests==2.31.0              # For making API calls # type: ignore
+
+# Excel and Configuration Handling
+openpyxl==3.1.2               # For reading data from Excel files # type: ignore
+
+# Behave Dependency
+behave==1.2.7                 # For Gherkin-style step definitions # type: ignore
+
+
 

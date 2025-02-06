@@ -1,6 +1,7 @@
 from pages.base_page import BasePage, retry_with_screenshot
 import configparser
 
+# adding a test comment to test the branch ruleset
 class LoginPage(BasePage):
     """
     Page class for login functionality. Reads configurations and provides login automation.

@@ -1,7 +1,7 @@
 from pages.base_page import BasePage, retry_with_screenshot
 import configparser
 
-# Changed the rulset testing demo
+# Changed the rulset testing demo1
 class LoginPage(BasePage):
     """
     Page class for login functionality. Reads configurations and provides login automation.
